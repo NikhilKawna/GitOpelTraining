@@ -1,5 +1,13 @@
+
 Billing Feature
 NEW FILE+++++++++
 change the file to check push to remote server
 change file2 on remote
 Change--*** In File2 For conflict
+
+Billing Feature created
+New file file2----->
+change1 the file to check push to remote server
+change2 file2 on remote
+change3 at local master*******
+File2 updated and new line added
