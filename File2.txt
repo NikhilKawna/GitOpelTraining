@@ -1,4 +1,5 @@
 Billing Feature
-New file
+NEW FILE+++++++++
 change the file to check push to remote server
 change file2 on remote
+Change--*** In File2 For conflict
